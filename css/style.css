@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgb(226, 17, 17);
+    color: black;
+    font-size: 350%;
+    height: 180px;
+    text-align: center;
+}
+.banner{
+    background-color: white;
+    color: gold;
+    height: 70px;
+    font-size: 200%;
+    text-align: center;
+}
+.contain{
+overflow: hidden;
+}
+.side1{
+    background-color: dodgerblue;
+    font-size: 200%;
+    color: black;
+    height: 1000px;
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+.art{
+    background-color: blue;
+    font-size: 200%;
+    color: black;
+    height: 1000px;
+    width: 60%;
+    text-align: center;
+    float: left;
+}
+.side2{
+    background-color: rgb(82, 134, 230);
+    font-size: 200%;
+    color: black;
+    height: 1000px;
+    width: 20%;
+    text-align: center;
+    float:left;
+}
+footer{
+    background-color: orangered;
+    color: black;
+    font-size: 300%;
+    height: 200px;
+    text-align: center;
+}
